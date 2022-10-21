@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/ketutagus404' // ig
-global.sgh = 'https://github.com/VamsesOfficial/' // github
-global.sgc = 'https://chat.whatsapp.com/BCwzxnLQZl6FwyXumQ1wVe' // group whatsapp
+global.sig = 'https://instagram.com/maouk.store' // ig
+global.sgh = 'https://github.com/zodress/' // github
+global.sgc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17' // group whatsapp
 global.sdc = '-'//discord
-global.snh = 'https://youtu.be/AE4b9jO1uB4' // my youtube channel
+global.snh = 'https://youtube.com/' // my youtube channel
 global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085738639969' //dana
-global.povo = '085738639969' //ovo
-global.pgopay = '-' //gopay
+global.pdana = 'HUB OWNER //dana
+global.povo = '-' //ovo
+global.pgopay = 'HUB OWNER' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085738639969' //telkomsel
+global.ppulsa = '085172402754' //telkomsel
 global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '19152666222'
-global.nomorown = '6289508503105'
-global.namebot = '𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭'
-global.nameown = '𝐕𝐚𝐦𝐬𝐞𝐬'
+global.nomorbot = '6282112309026'
+global.nomorown = '6285172402754'
+global.namebot = 'ITSUKI-BOTS'
+global.nameown = 'Maouk'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'BANGOKUN' // nama github lu
-global.linkgithub = 'https://github.com/VamsesOfficial/' // tarok link github lu
+global.namagithub = 'zodress' // nama github lu
+global.linkgithub = 'https://github.com/zodress/' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,10 +85,10 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285738639969', 'VAMSES', true],
-  ['6287789210430', '6287789210430', true],
-  ['6282250712553', '6282250712553', true],
-  ['6289508503105', 'ISI KALAU ADA', true],
+  ['6285172402754', 'Maouk Store', true],
+  ['6285942994641', 'Nolse Store', true],
+  ['6285172398526', 'Power Bots', true],
+  ['6282112309026', 'Itsuki Bots', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐕𝐀𝐌𝐒𝐄𝐒 」' //Main Watermark
-global.wm2 = '𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭'
-global.wm3 = '⫹⫺ 𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭 '
+global.wm = '                「 ITSUKI」' //Main Watermark
+global.wm2 = 'ITSUKI_BOTS'
+global.wm3 = '⫹⫺ ITSUKI-BOTS '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | BY ITSUKI`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭」'
+global.author = '                「 ITSUKI-𝐁𝐨𝐭」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -154,11 +154,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/KyJYfKN/Anime-the-journey-of-elaina-majo-no-tabitabi.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/KyJYfKN/Anime-the-journey-of-elaina-majo-no-tabitabi.jpg'
+global.thumb = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg' //Main Thumbnail
+global.imagebot = ' https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/KyJYfKN/Anime-the-journey-of-elaina-majo-no-tabitabi.jpg']
-global.fla = 'https://i.ibb.co/KyJYfKN/Anime-the-journey-of-elaina-majo-no-tabitabi.jpg'
+global.thumbs = ['https://telegra.ph/file/aadc407ebdc7a83146955.jpg']
+global.fla = 'https://telegra.ph/file/aadc407ebdc7a83146955.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -614,7 +614,7 @@ global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = 'ଓ═┅═━–〈' //top
+global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊↬' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝐕𝐀𝐌𝐒𝐄𝐒'
-global.stickauth = `By ©𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭`
+global.stickpack = 'ITSUKI'
+global.stickauth = `By ©ITSUKI-𝐁𝐨𝐭`
 
 global.multiplier = 38 // The higher, The harder levelup
 
