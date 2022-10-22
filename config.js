@@ -58,7 +58,7 @@ global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = 'HUB OWNER //dana
+global.pdana = 'HUB OWNER' //dana
 global.povo = '-' //ovo
 global.pgopay = 'HUB OWNER' //gopay
 global.plinkaja = '-' //link aja
